@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout from '../conponets/Layout/Layout'
+import Layout from '../componets/Layout/Layout'
 
 import { Link } from "react-router-dom";
 import Banner from "../images/banner.jpeg";

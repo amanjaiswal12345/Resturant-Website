@@ -1,6 +1,6 @@
 import React from 'react'
 import { MenuList } from "../data/data";
-import Layout from '../conponets/Layout/Layout'
+import Layout from '../componets/Layout/Layout'
 import {
   Box,
   Card,
